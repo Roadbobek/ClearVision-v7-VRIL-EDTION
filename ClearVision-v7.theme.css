@@ -8,9 +8,9 @@
  * @invite dHaSxn3
  */
 /* IMPORT CSS */
-@import url("https://Roadbobek.github.io/ClearVision-v7-VRIL-EDTION/main.css");
-@import url("https://Roadbobek.github.io/ClearVision-v7-VRIL-EDTION/betterdiscord.css");
-@import url("https://Roadbobek.github.io/ClearVision-v7-VRIL-EDTION/vencord.css");
+@import url("https://raw.githubusercontent.com/Roadbobek/ClearVision-v7-VRIL-EDTION/main/ClearVision-v7.theme.css");
+@import url("https://raw.githubusercontent.com/Roadbobek/ClearVision-v7-VRIL-EDTION/main/ClearVision-v7-VRIL-EDTION/betterdiscord.css");
+@import url("https://raw.githubusercontent.com/Roadbobek/ClearVision-v7-VRIL-EDTION/main/ClearVision-v7-VRIL-EDTION/betterdiscord.css");
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
@@ -26,7 +26,7 @@
   --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
   /* APP BACKGROUND */
   --background-shading-percent: 100%; /* app background shading amount (0 for complete smoothness) [default: 100%] */
-  --background-image: url("https://Roadbobek.github.io/ClearVision-v7-VRIL-EDTION/64c2ab49f4488f99d1393e75a3881b63_upscayl_4x_remacri-4x.png"); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url("https://raw.githubusercontent.com/Roadbobek/ClearVision-v7-VRIL-EDTION/main/64c2ab49f4488f99d1393e75a3881b63_upscayl_4x_remacri-4x.png"); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size (px) [default: cover] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
